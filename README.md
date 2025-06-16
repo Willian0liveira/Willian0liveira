@@ -57,7 +57,7 @@ Sou **Desenvolvedor Front-end** e **Fundador da Wbyte Sistemas**, especializado 
 ```dart
 const willian = {
     company: "Wbyte Sistemas",
-    role: "Junior Developer & Founder",
+    role: "Front-End Developer & Founder",
     code: ["Dart", "JavaScript", "HTML/CSS", "Java"],
     technologies: {
         mobile: {
