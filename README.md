@@ -84,9 +84,10 @@ const willian = {
 
 <div align="center">
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Wbyte_Sistemas-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7894324634392948648&hl=pt_BR)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7894324634392948648&hl=pt_BR)
+[![Google Play](https://img.shields.io/badge/Wbyte_Sistemas-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://wbytesistemas.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willian0liveira)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@wbytesistemas.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@wbytesistemas.com.br)
 
 </div>
 
