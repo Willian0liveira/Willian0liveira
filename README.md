@@ -1,4 +1,4 @@
-# Olá! Eu sou o Willian Oliveira (Will) 👋
+# Olá 👋 Me chamo Willian Oliveira, mas pode me chamar de Will
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-end;Fundador+da+Wbyte+Sistemas;Especialista+em+Flutter;Designer+UX%2FUI" alt="Typing SVG" />
@@ -21,9 +21,7 @@ Sou **Desenvolvedor Front-end** e **Fundador da Wbyte Sistemas**, especializado 
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,36 +57,13 @@ Sou **Desenvolvedor Front-end** e **Fundador da Wbyte Sistemas**, especializado 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Willian0liveira&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## O que eu faço
-
-```dart
-const willian = {
-    company: "Wbyte Sistemas",
-    role: "Front-End Developer & Founder",
-    code: ["Dart", "JavaScript", "HTML/CSS", "Java", "Python"],
-    technologies: {
-        mobile: {
-            primary: "Flutter",
-            native: "Android (Java)"
-        },
-        frontend: ["HTML5", "CSS3", "JavaScript"],
-        database: ["Firebase", "SQLite", "SQFlite", "Hive"],
-        design: ["Adobe XD", "Photoshop", "Illustrator", "After Effects"],
-        learning: ["Advanced Java", "Backend Development"]
-    },
-    currentFocus: "Building beautiful Flutter apps",
-    motto: "Learning something new every day! 🚀"
-};
-```
-
 ## Vamos Conectar?
 
 <div align="center">
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7894324634392948648&hl=pt_BR)
-[![Google Play](https://img.shields.io/badge/Wbyte_Sistemas-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://wbytesistemas.com.br)
+[![Wbyte Sistemas](https://img.shields.io/badge/Wbyte_Sistemas-414141?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wbytesistemas.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willian0liveira)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@wbytesistemas.com.br)
 
 </div>
 
@@ -96,6 +71,4 @@ const willian = {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Willian0liveira&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
-  
-  **"Cada app é uma oportunidade de aprender e criar algo incrível!"** 🚀
 </div>
