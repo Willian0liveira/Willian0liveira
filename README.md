@@ -8,7 +8,7 @@
 
 Sou **Desenvolvedor Front-end** e **Fundador da Wbyte Sistemas**, especializado em **Flutter** e desenvolvimento mobile. Apaixonado por criar aplicações bonitas e funcionais, sempre buscando aprender e evoluir na área de tecnologia.
 
-- 👨‍💼 **Fundador** da [Wbyte Sistemas](#)
+- 👨‍💼 **Fundador** da Wbyte Sistemas
 - 📱 **Especialista** em Flutter e desenvolvimento de sistemas, sites e aplicativos móveis escaláveis 
 - 🎨 **Designer** UX/UI com foco na experiência do usuário
 - 📍 **Localização**: Franco da Rocha - São Paulo, Brasil
