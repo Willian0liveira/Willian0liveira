@@ -9,10 +9,10 @@
 Sou **Desenvolvedor Front-end** e **Fundador da Wbyte Sistemas**, especializado em **Flutter** e desenvolvimento mobile. Apaixonado por criar aplicações bonitas e funcionais, sempre buscando aprender e evoluir na área de tecnologia.
 
 - 👨‍💼 **Fundador** da [Wbyte Sistemas](#)
-- 📱 **Especialista** em Flutter e desenvolvimento mobile
+- 📱 **Especialista** em Flutter e desenvolvimento de sistemas, sites e aplicativos móveis escaláveis 
 - 🎨 **Designer** UX/UI com foco na experiência do usuário
 - 📍 **Localização**: Franco da Rocha - São Paulo, Brasil
-- 🚀 **Objetivo**: Criar apps mobile incríveis e crescer como desenvolvedor
+- 🚀 **Objetivo**: Criar soluções digitais incríveis e crescer como desenvolvedor
 - 📚 **Sempre aprendendo** novas tecnologias e melhores práticas
 
 ## Tecnologias & Ferramentas
@@ -53,10 +53,6 @@ Sou **Desenvolvedor Front-end** e **Fundador da Wbyte Sistemas**, especializado 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian0liveira&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Willian0liveira&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## Vamos Conectar?
