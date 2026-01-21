@@ -22,6 +22,7 @@ Sou **Desenvolvedor Front-end** e **Fundador da Wbyte Sistemas**, especializado 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,6 +42,7 @@ Sou **Desenvolvedor Front-end** e **Fundador da Wbyte Sistemas**, especializado 
 
 ### Design & UX/UI
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
@@ -62,7 +64,7 @@ Sou **Desenvolvedor Front-end** e **Fundador da Wbyte Sistemas**, especializado 
 <div align="center">
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7894324634392948648&hl=pt_BR)
-[![Wbyte Sistemas](https://img.shields.io/badge/Wbyte_Sistemas-414141?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wbytesistemas.com.br)
+[![Wbyte Sistemas](https://img.shields.io/badge/Wbyte_Sistemas-414141?style=for-the-badge&logo=googleearth&logoColor=white)](https://wbytesistemas.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willian0liveira)
 
 </div>
