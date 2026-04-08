@@ -1,5 +1,5 @@
 # Willian Oliveira
-Desenvolvedor Front-end | Flutter | Fundador da Wbyte Sistemas
+Analista de sistemas | Desenvolvedor web e mobile front-end | Fundador da [Wbyte Sistemas](https://wbytesistemas.com.br).
 ## Sobre
 Fundador da Wbyte Sistemas, com foco em desenvolvimento mobile com Flutter e aplicações web. Aplicativos publicados na Google Play com mais de 10 mil downloads. Atualmente desenvolvendo o [Kantae](https://kantae.wbytesistemas.com.br), nova plataforma da Wbyte.
 Franco da Rocha, SP - Brasil
