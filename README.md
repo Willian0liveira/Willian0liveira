@@ -11,7 +11,7 @@ Franco da Rocha, SP - Brasil
 **Design:** Figma, Adobe XD, Adobe After Effects, Adobe Photoshop, Adobe Illustrator
 ## Projetos em destaque
 **[clinica-medica](https://github.com/Willian0liveira/clinica-medica)** — Website para clínica médica com formulário de contato integrado. HTML, CSS, JavaScript e PHPMailer.
-**[ConsultaCEPViaCep](https://github.com/Willian0liveira/ConsultaCEPViaCep)** — Aplicação de consulta de endereços via API ViaCEP.
-**[teste-prognum-consumo-api](https://github.com/Willian0liveira/teste-prognum-consumo-api)** — Projeto Flutter com consumo de API REST.
+**[ConsultaCEPViaCep](https://github.com/Willian0liveira/ConsultaCEPViaCep)** — Aplicação de consulta de endereços utilizando a API ViaCEP.
+**[teste-prognum-consumo-api](https://github.com/Willian0liveira/teste-prognum-consumo-api)** — Projeto Python com consumo de API REST.
 ## Contato
 [Google Play](https://play.google.com/store/apps/dev?id=7894324634392948648&hl=pt_BR) | [Wbyte Sistemas](https://wbytesistemas.com.br) | [LinkedIn](https://linkedin.com/in/willian0liveira)
