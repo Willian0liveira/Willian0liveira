@@ -2,7 +2,7 @@
 Analista de sistemas | Desenvolvedor web e mobile front-end | Fundador da [Wbyte Sistemas](https://wbytesistemas.com.br).
 ## Sobre
 Fundador da Wbyte Sistemas, com foco em desenvolvimento mobile com Flutter e aplicações web. Aplicativos publicados na Google Play com mais de 10 mil downloads. Atualmente desenvolvendo o mobNAS, um aplicativo android que transforma smartphones em servidores WebDAV com suporte a tunel via Cloudflare Zero Trust.
-Franco da Rocha, SP - Brasil
+
 ## Stack
 **Mobile:** Flutter, Dart, Android, IOS
 **Web:** HTML, CSS, JavaScript
