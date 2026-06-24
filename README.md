@@ -5,9 +5,9 @@ Fundador da Wbyte Sistemas, com foco em desenvolvimento mobile com Flutter e apl
 
 ## Stack
 **Mobile:** Flutter, Dart, Android, IOS
-**Web:** HTML, CSS, JavaScript
+**Web:** HTML, CSS, JavaScript, Next Js
 **Back-end:** Python ( Fast API ), Java ( Springboot )
-**Banco de dados:** Firebase, Supabase, SQL, PostgreSQL
+**Banco de dados:** Firebase, Supabase, PostgreSQL
 **Design:** Figma, Adobe XD, Adobe After Effects, Adobe Photoshop, Adobe Illustrator
 ## Projetos em destaque
 **[clinica-medica](https://github.com/Willian0liveira/clinica-medica)** - Website para clínica médica com formulário de contato integrado. HTML, CSS, JavaScript e PHPMailer.
