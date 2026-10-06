@@ -1,13 +1,15 @@
 # Willian Oliveira
-Analista de sistemas | Desenvolvedor web e mobile front-end | Fundador da [Wbyte Sistemas](https://wbytesistemas.com.br).
-## Sobre
-Fundador da Wbyte Sistemas, com foco em desenvolvimento mobile com Flutter e aplicações web. Aplicativos publicados na Google Play com mais de 10 mil downloads. Atualmente desenvolvendo o mobNAS, um aplicativo android que transforma smartphones em servidores WebDAV com suporte a tunel via Cloudflare Zero Trust.
+Desenvolvedor de Software formado em Análise e Desenvolvimento de Sistemas, com experiência em
+aplicações mobile e web e em aprofundamento atual em Backend. Atuo na criação e publicação de aplicativos
+Android com deploy de projetos na Google Play utilizando Flutter e no desenvolvimento de front-end web com Next.js. 
+No backend, utilizo Java e Spring Boot, desenvolvendo APIs RESTful com arquitetura em camadas e padrão MVC.
+Conhecimento em modelagem e persistência de dados relacionais usando PostgreSQL, JPA e Hibernate.
 
 ## Stack
-**Mobile:** Flutter, Dart, Android, IOS
+**Mobile:** Flutter, Dart
 **Web:** HTML, CSS, JavaScript, Next Js
-**Back-end:** Python ( Fast API ), Java ( Springboot )
-**Banco de dados:** Firebase, Supabase, PostgreSQL
+**Back-end:** Java ( Springboot )
+**Banco de dados:** PostgreSQL
 **Design:** Figma, Adobe XD, Adobe After Effects, Adobe Photoshop, Adobe Illustrator
 
 ## Contato
