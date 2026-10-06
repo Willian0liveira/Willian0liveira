@@ -6,10 +6,10 @@ No backend, utilizo Java e Spring Boot, desenvolvendo APIs RESTful com arquitetu
 Conhecimento em modelagem e persistência de dados relacionais usando PostgreSQL, JPA e Hibernate.
 
 ## Stack
-**Mobile:** Flutter, Dart
-**Web:** HTML, CSS, JavaScript, Next Js
-**Back-end:** Java ( Springboot )
-**Banco de dados:** PostgreSQL
+**Mobile:** Flutter, Dart  
+**Web:** HTML, CSS, JavaScript, Next Js  
+**Back-end:** Java ( Springboot )  
+**Banco de dados:** PostgreSQL  
 **Design:** Figma, Adobe XD, Adobe After Effects, Adobe Photoshop, Adobe Illustrator
 
 ## Contato
