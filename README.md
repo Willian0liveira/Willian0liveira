@@ -13,4 +13,4 @@ Conhecimento em modelagem e persistência de dados relacionais usando PostgreSQL
 **Design:** Figma, Adobe XD, Adobe After Effects, Adobe Photoshop, Adobe Illustrator
 
 ## Contato
-[Google Play](https://play.google.com/store/apps/dev?id=7894324634392948648&hl=pt_BR) | [Wbyte Sistemas](https://wbytesistemas.com.br) | [LinkedIn](https://linkedin.com/in/willian0liveira) |[Currículo](https://drive.google.com/uc?export=download&id=1Fv9g8UZQolekylyeUKw828kW6aUEB7_E)
+[Google Play](https://play.google.com/store/apps/dev?id=7894324634392948648&hl=pt_BR) | [Wbyte Sistemas](https://wbytesistemas.com.br) | [LinkedIn](https://linkedin.com/in/willian0liveira) | [Currículo](https://drive.google.com/uc?export=download&id=1Fv9g8UZQolekylyeUKw828kW6aUEB7_E)
