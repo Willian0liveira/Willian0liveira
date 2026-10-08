@@ -10,6 +10,7 @@ Conhecimento em modelagem e persistência de dados relacionais usando PostgreSQL
 **Web:** HTML, CSS, JavaScript, Next Js  
 **Back-end:** Java ( Springboot )  
 **Banco de dados:** PostgreSQL  
+**Automação:** Python 3 
 **Design:** Figma, Adobe XD, Adobe After Effects, Adobe Photoshop, Adobe Illustrator
 
 ## Contato
